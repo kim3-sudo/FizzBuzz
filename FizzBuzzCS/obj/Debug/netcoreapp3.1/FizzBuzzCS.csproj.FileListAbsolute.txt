@@ -1,0 +1,11 @@
+C:\Users\skim2\Documents\FizzBuzz\FizzBuzzCS\bin\Debug\netcoreapp3.1\FizzBuzzCS.exe
+C:\Users\skim2\Documents\FizzBuzz\FizzBuzzCS\bin\Debug\netcoreapp3.1\FizzBuzzCS.deps.json
+C:\Users\skim2\Documents\FizzBuzz\FizzBuzzCS\bin\Debug\netcoreapp3.1\FizzBuzzCS.runtimeconfig.json
+C:\Users\skim2\Documents\FizzBuzz\FizzBuzzCS\bin\Debug\netcoreapp3.1\FizzBuzzCS.runtimeconfig.dev.json
+C:\Users\skim2\Documents\FizzBuzz\FizzBuzzCS\bin\Debug\netcoreapp3.1\FizzBuzzCS.dll
+C:\Users\skim2\Documents\FizzBuzz\FizzBuzzCS\bin\Debug\netcoreapp3.1\FizzBuzzCS.pdb
+C:\Users\skim2\Documents\FizzBuzz\FizzBuzzCS\obj\Debug\netcoreapp3.1\FizzBuzzCS.csprojAssemblyReference.cache
+C:\Users\skim2\Documents\FizzBuzz\FizzBuzzCS\obj\Debug\netcoreapp3.1\FizzBuzzCS.AssemblyInfoInputs.cache
+C:\Users\skim2\Documents\FizzBuzz\FizzBuzzCS\obj\Debug\netcoreapp3.1\FizzBuzzCS.AssemblyInfo.cs
+C:\Users\skim2\Documents\FizzBuzz\FizzBuzzCS\obj\Debug\netcoreapp3.1\FizzBuzzCS.dll
+C:\Users\skim2\Documents\FizzBuzz\FizzBuzzCS\obj\Debug\netcoreapp3.1\FizzBuzzCS.pdb
